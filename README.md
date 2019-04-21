@@ -12,7 +12,7 @@ brew install FORMULA
 
 ## Formulae
 
-* [redis-cli](Formula/redis-cli.rb)
+* [redis-cli](Formula/redis-cli.rb) &ndash; [doc](https://redis.io/topics/rediscli)
 
 ## Documentation
 
