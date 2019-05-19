@@ -9,7 +9,7 @@ class Sshpass < Formula
     system "./configure", "--disable-debug", "--disable-dependency-tracking",
                           "--prefix=#{prefix}"
     system "make install"
-    bin.install "./src/sshpass"
+    bin.install "sshpass"
   end
 
   test do

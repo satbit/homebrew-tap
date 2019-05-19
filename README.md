@@ -13,6 +13,7 @@ brew install FORMULA
 ## Formulae
 
 * [redis-cli](Formula/redis-cli.rb) &ndash; [doc](https://redis.io/topics/rediscli)
+* [sshpass](Formula/sshpass.rb) &ndash; [doc](https://sourceforge.net/projects/sshpass/)
 
 ## Documentation
 
